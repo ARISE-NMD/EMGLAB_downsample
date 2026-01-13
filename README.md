@@ -32,7 +32,9 @@ The pipeline is composed of five main stages:
 
 Due to the large number of feature extraction and downsampling configurations, full pipeline execution can be computationally expensive and time-consuming.
 
-To facilitate reproducibility and result inspection without re-running the entire pipeline, the complete set of generated outputs for the EMGLAB dataset has been archived on **Zenodo**. LINK
+To facilitate reproducibility and result inspection without re-running the entire pipeline, the complete set of generated outputs for the EMGLAB dataset has been archived on **Zenodo**.
+
+https://zenodo.org/10.5281/zenodo.18223778
 
 ---
 

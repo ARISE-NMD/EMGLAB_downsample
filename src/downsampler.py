@@ -254,7 +254,6 @@ class Downsampler:
             mark_undone(output_path, "downsampling")
             self.logger.info("Running downsampling...")
 
-            # Load preprocessed X and Y
             self.logger.info("Loading preprocessed data...")
             X = np.load(input_path / "X.npy")
             self.logger.info(f"Loaded preprocessed data X: {X.shape}")

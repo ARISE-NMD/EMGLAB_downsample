@@ -62,7 +62,7 @@ class Classifier:
                         y_test = np.load(input_fold_path / "y_test.npy")
 
                         # Train classifier
-                        clf = RandomForestClassifier(n_estimators=1000, n_jobs=-1)
+                        clf = RandomForestClassifier(n_estimators=200, n_jobs=-1)
                         clf.fit(X_train, y_train)
 
                         # Predict
