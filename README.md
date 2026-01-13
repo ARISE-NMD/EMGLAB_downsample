@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/1132886075.svg)](https://doi.org/10.5281/zenodo.18232785)
+[![DOI](https://zenodo.org/badge/1132886075.svg)](https://doi.org/10.5281/zenodo.18233239)
 
 # Understanding Downsampling Effects on EMGLAB
 
