@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+
+authors:
+  - family-names: Cherpitel
+    given-names: M.
+  - family-names: Luijten
+    given-names: J.
+  - family-names: Bäck
+    given-names: T.
+  - family-names: Verhamme
+    given-names: C.
+  - family-names: Tannemaat
+    given-names: M.
+  - family-names: Kononova
+    given-names: A.
+
+title: >
+  How does downsampling affect needle electromyography signals? A generalisable workflow for understanding downsampling effects on high-frequency time series
+
+version: "arXiv-2601.10191"
+date-released: 2026
+
+repository-code: https://arxiv.org/abs/2601.10191
+url: https://arxiv.org/abs/2601.10191
+
+abstract: >
+  Automated analysis of needle electromyography (nEMG) signals is emerging as a tool to support the detection of neuromuscular diseases (NMDs), yet the signals' high and heterogeneous sampling rates pose substantial computational challenges for feature-based machine-learning models, particularly for near real-time analysis. Downsampling offers a potential solution, but its impact on diagnostic signal content and classification performance remains insufficiently understood. This study presents a workflow for systematically evaluating information loss caused by downsampling in high-frequency time series. The workflow combines shape-based distortion metrics with classification outcomes from available feature-based machine learning models and feature space analysis to quantify how different downsampling algorithms and factors affect both waveform integrity and predictive performance. We use a three-class NMD classification task to experimentally evaluate the workflow. We demonstrate how the workflow identifies downsampling configurations that preserve diagnostic information while substantially reducing computational load. Analysis of shape-based distortion metrics showed that shape-aware downsampling algorithms outperform standard decimation, as they better preserve peak structure and overall signal morphology. The results provide practical guidance for selecting downsampling configurations that enable near real-time nEMG analysis and highlight a generalisable workflow that can be used to balance data reduction with model performance in other high-frequency time-series applications as well.
+
+license: CC-BY-4.0
