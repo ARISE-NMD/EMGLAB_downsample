@@ -99,9 +99,7 @@ The `notebooks/` directory contains the Jupyter notebooks used to generate all f
 ## Citation
 If you use this code or the associated datasets, please cite:
 
-    Author1, Author2. (2026).
-    How does downsampling affect needle electromyography signals? A generalisable workflow for understanding downsampling effects on high-frequency time series.
-    Journal Name
+Cherpitel, M., Luijten, J., Bäck, T., Verhamme, C., Tannemaat, M., & Kononova, A. (2026). How does downsampling affect needle electromyography signals? A generalisable workflow for understanding downsampling effects on high-frequency time series. ArXiv. https://arxiv.org/abs/2601.10191
 
 Alternatively, use the “Cite this repository” button on GitHub to obtain a BibTeX entry.
 
